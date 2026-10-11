@@ -1,0 +1,83 @@
+command_id: 6F1.618.22DA37|e=18,fc=1
+test_cases:
+- expected_values:
+    X6_TIME_D: 0
+    X6_TIME_M: 194
+    X6_TIME_S: 121
+  response: |-
+    22DA37
+    618F1100F62DA370079
+    618F121C28B00001A68
+    618F1220000068CFFFF
+- expected_values:
+    X6_TIME_D: 0
+    X6_TIME_M: 38
+    X6_TIME_S: 115
+  response: |-
+    618F1100F62DA370073
+    618F121261500001A68
+    618F12200000678FFFF
+- expected_values:
+    X6_TIME_D: 0
+    X6_TIME_M: 42
+    X6_TIME_S: 115
+  response: |-
+    618F1100F62DA370073
+    618F1212A7F00001A68
+    618F12200000678FFFF
+- expected_values:
+    X6_TIME_D: 0
+    X6_TIME_M: 144
+    X6_TIME_S: 121
+  response: |-
+    618F1100F62DA370079
+    618F121904D00001A68
+    618F1220000068CFFFF
+- expected_values:
+    X6_TIME_D: 0
+    X6_TIME_M: 204
+    X6_TIME_S: 121
+  response: |-
+    618F1100F62DA370079
+    618F121CC4000001A68
+    618F1220000068CFFFF
+- expected_values:
+    X6_TIME_D: 0
+    X6_TIME_M: 239
+    X6_TIME_S: 121
+  response: |-
+    618F1100F62DA370079
+    618F121EFC200001A68
+    618F1220000068CFFFF
+- expected_values:
+    X6_TIME_D: 0
+    X6_TIME_M: 246
+    X6_TIME_S: 121
+  response: |-
+    618F1100F62DA370079
+    618F121F62600001A68
+    618F1220000068CFFFF
+- expected_values:
+    X6_TIME_D: 0
+    X6_TIME_M: 254
+    X6_TIME_S: 121
+  response: |-
+    618F1100F62DA370079
+    618F121FECC00001A68
+    618F12200000693FFFF
+- expected_values:
+    X6_TIME_D: 0
+    X6_TIME_M: 0
+    X6_TIME_S: 122
+  response: |-
+    618F1100F62DA37007A
+    618F121009600001A68
+    618F12200000693FFFF
+- expected_values:
+    X6_TIME_D: 0
+    X6_TIME_M: 39
+    X6_TIME_S: 197
+  response: |-
+    618F1100F62DA3700C5
+    618F1212763000003A8
+    618F12200002138FFFF

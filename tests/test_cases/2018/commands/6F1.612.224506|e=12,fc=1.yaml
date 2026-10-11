@@ -1,0 +1,26 @@
+command_id: 6F1.612.224506|e=12,fc=1
+test_cases:
+- expected_values:
+    X6_OIL_TEMP: 0
+  response: 612F1056245060000
+- expected_values:
+    X6_OIL_TEMP: 10
+  response: 612F1056245060A4F
+- expected_values:
+    X6_OIL_TEMP: 17
+  response: 612F105624506114D
+- expected_values:
+    X6_OIL_TEMP: 17
+  response: 612F105624506114E
+- expected_values:
+    X6_OIL_TEMP: 24
+  response: 612F105624506184D
+- expected_values:
+    X6_OIL_TEMP: 24
+  response: 612F105624506184E
+- expected_values:
+    X6_OIL_TEMP: 24
+  response: 612F1056245061850
+- expected_values:
+    X6_OIL_TEMP: 24
+  response: 612F1056245061855
