@@ -1,0 +1,13 @@
+command_id: 6F1.618.22DA12|e=18,fc=1
+test_cases:
+- expected_values:
+    X6_ATF_TEMP: 84
+  response: |-
+    22DA12
+    618F10562DA120084
+- expected_values:
+    X6_ATF_TEMP: 0
+  response: 618F10562DA120030
+- expected_values:
+    X6_ATF_TEMP: 87
+  response: 618F10562DA120087

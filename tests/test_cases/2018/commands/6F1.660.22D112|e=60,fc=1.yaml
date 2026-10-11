@@ -1,0 +1,32 @@
+command_id: 6F1.660.22D112|e=60,fc=1
+test_cases:
+- expected_values:
+    X6_AAT: 23
+  response: |-
+    22D112
+    660F10562D1127E7F
+- expected_values:
+    X6_AAT: 31
+  response: |-
+    22D112
+    660F10562D1128E90
+- expected_values:
+    X6_AAT: 26.5
+  response: |-
+    660F10562D1070015
+    660F10562D112858B
+- expected_values:
+    X6_AAT: -8
+  response: 660F10562D1124041
+- expected_values:
+    X6_AAT: 25
+  response: 660F10562D11282B4
+- expected_values:
+    X6_AAT: 40
+  response: 660F10562D112A0A4
+- expected_values:
+    X6_AAT: 32
+  response: |-
+    660F1100B62D10D0001
+    660F121CA7C0001CA7C
+    660F10562D1129093

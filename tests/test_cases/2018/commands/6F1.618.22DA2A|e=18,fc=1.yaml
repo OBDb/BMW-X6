@@ -1,0 +1,39 @@
+command_id: 6F1.618.22DA2A|e=18,fc=1
+test_cases:
+- expected_values:
+    X6_TQ_CNVRT_RPM: 1943
+    X6_TRANS_SHAFT_RPM: 2920
+  response: |-
+    22DA2A
+    618F1100762DA2A0797
+    618F1210B68FFFFFFFF
+- expected_values:
+    X6_TQ_CNVRT_RPM: 0
+    X6_TRANS_SHAFT_RPM: 0
+  response: |-
+    618F1100762DA2A0000
+    618F1210000FFFFFFFF
+- expected_values:
+    X6_TQ_CNVRT_RPM: 755
+    X6_TRANS_SHAFT_RPM: 0
+  response: |-
+    618F1100762DA2A02F3
+    618F1210000FFFFFFFF
+- expected_values:
+    X6_TQ_CNVRT_RPM: 1796
+    X6_TRANS_SHAFT_RPM: 2697
+  response: |-
+    618F1100762DA2A0704
+    618F1210A89FFFFFFFF
+- expected_values:
+    X6_TQ_CNVRT_RPM: 1905
+    X6_TRANS_SHAFT_RPM: 2863
+  response: |-
+    618F1100762DA2A0771
+    618F1210B2FFFFFFFFF
+- expected_values:
+    X6_TQ_CNVRT_RPM: 1937
+    X6_TRANS_SHAFT_RPM: 2903
+  response: |-
+    618F1100762DA2A0791
+    618F1210B57FFFFFFFF

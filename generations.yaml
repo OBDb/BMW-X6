@@ -1,0 +1,16 @@
+references:
+  - "https://en.wikipedia.org/wiki/BMW_X6"
+
+generations:
+  - name: "First Generation (E71)"
+    start_year: 2008
+    end_year: 2014
+    description: "The coupe-styled SUV based on the E70 X5."
+  - name: "Second Generation (F16)"
+    start_year: 2014
+    end_year: 2019
+    description: "Based on the F15 X5."
+  - name: "Third Generation (G06)"
+    start_year: 2019
+    end_year: null
+    description: "Based on the G05 X5 on the CLAR platform."

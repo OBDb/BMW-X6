@@ -1,0 +1,23 @@
+command_id: 6F1.612.224300|e=12,fc=1
+test_cases:
+- expected_values:
+    X6_ET_8: 51.75
+  response: 612F10462430085
+- expected_values:
+    X6_ET_8: 83.25
+  response: 612F104624300AF
+- expected_values:
+    X6_ET_8: 86.25
+  response: 612F104624300B3
+- expected_values:
+    X6_ET_8: 101.25
+  response: 612F104624300C7
+- expected_values:
+    X6_ET_8: 103.5
+  response: 612F104624300CA
+- expected_values:
+    X6_ET_8: 104.25
+  response: 612F104624300CB
+- expected_values:
+    X6_ET_8: 105.75
+  response: 612F104624300CD
